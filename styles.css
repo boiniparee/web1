@@ -1,0 +1,145 @@
+/* div{
+    margin-top: 0px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    margin-right: 0px;    
+    background-color: #C0EEE4;
+} */
+.skill-row{
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: justify;
+    /* text-align: left; */
+
+}
+.para{
+    /* text-align: left; */
+}
+p{
+    line-height: 2;
+}
+div {
+    background-color: #C0EEE4;
+    padding-top: 30px;
+}
+h1 {
+    margin: 0 auto 0 auto;
+    width: 30%;
+    /* font-family: 'Sevillana', cursive; */
+    font-family: 'Sacramento', 'cursive';
+    font-size: 5em;
+    color:#66BFBF;
+    /* line-height: 4; */
+}
+p{
+    line-height: 2;
+}
+.intro{
+    width: 40%;
+    margin: auto;
+}
+.con{
+    width: 50%;
+    margin: 40px auto 50px;
+}
+h2{
+    font-size:2.5rem ;
+    color:#66BFBF;
+    font-weight: normal;
+}
+h3 {
+    color: #11999E;
+}
+p{
+    font-family: 'Ubuntu', sans-serif; ;
+}
+body{
+   margin: 0;
+   text-align: center;
+   font-family: 'Ubuntu', sans-serif;
+   font-size: 100%;
+
+}
+.top{
+    background-color: black;
+    height: 200px;
+    width: 200px;
+    
+}
+.c{
+    margin-bottom: 0;
+}
+
+.imagepy{
+    height: 200px;
+    float: left;
+    margin-right: 20px;
+    /* width: 25%; */
+    /* margin: 0 auto 0 auto; */
+}
+.imageja{
+    float: right;
+    height: 200px;
+    margin-top: 0;
+    margin-bottom: 10px;
+    margin-right: 10px;
+    /* width: 25%; */
+}
+.bottomcloud{
+position: absolute;
+/* bottom: 300px; */
+}
+.topcloud{
+    position: relative;
+    right: 0;
+    left: 250px;
+    top: 0p;
+   
+    /* left: 200px; */
+    
+}
+.btn{
+    /* font-style: none; */
+    text-decoration: none;
+    color: rgb(241, 231, 231);
+    border: 2px solid black ;
+    background-color: #30e3cb;
+    border-radius: 5px;
+    padding-left: 2px;
+    padding-right: 5px;
+    margin-bottom: 10px;
+    
+
+
+
+}
+.btn:hover{
+    background-color: #2bc4ad;
+    
+}
+hr{
+    /* background-color: white; */
+    border-style: dotted none none;
+    height: 0px;
+    width: 10%;
+    border-color: grey;
+    border-width: 5px;
+}
+.bottom-container{
+    background-color: #11999E;
+    padding: 50px 0 20px;
+
+}
+a{
+    color: #C0EEE4;
+    font-family: 'Ubuntu', sans-serif;
+    text-decoration: none;
+    margin: 10px 20px
+}
+a:hover{
+color: #30e3cb;
+}
+.c{
+    font-size: 0.80em;
+
+}
